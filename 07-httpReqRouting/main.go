@@ -15,11 +15,21 @@ func helloWorld(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprintf(w, "Hello world!")
 }
 
+func login(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "Login!!")
+}
+
+func logout(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "Logout!!")
+}
+
 func main() {
 	http.HandleFunc("/", helloWorld)
+	http.HandleFunc("/login", login)
+	http.HandleFunc("/logout", logout)
 	err := http.ListenAndServe(connHost+":"+connPort, nil)
 	if err != nil {
-		log.Fatal("error starting http server : ", err)
+		log.Fatal("errore while running the server: ", err)
 		return
 	}
 }
