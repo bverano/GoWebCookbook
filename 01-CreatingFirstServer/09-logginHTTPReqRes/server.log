@@ -1,0 +1,5 @@
+127.0.0.1 - - [02/Oct/2020:20:59:27 -0500] "GET /hello/bruno HTTP/1.1" 200 8 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
+127.0.0.1 - - [02/Oct/2020:20:59:32 -0500] "GET /hello/bruno HTTP/1.1" 200 8 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
+127.0.0.1 - - [02/Oct/2020:21:00:04 -0500] "GET /hello/bruno HTTP/1.1" 200 8 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
+127.0.0.1 - - [02/Oct/2020:21:00:13 -0500] "GET /hello/Luis HTTP/1.1" 200 7 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
+127.0.0.1 - - [02/Oct/2020:21:05:19 -0500] "GET /hello/Luis HTTP/1.1" 200 7 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36"
