@@ -10,5 +10,6 @@ In this repository I'll be coding along Arpit Aggarwal's Go Web Development Cook
 2. Working with Templates
 3. Working with Sessions, Error Handling and Caching in Go
 4. Writing and Consuming RESTful Web Services in Go
+5. Working with SQL Databases
 
 Enjoy!
