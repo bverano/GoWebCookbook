@@ -12,5 +12,6 @@ In this repository I'll be coding along Arpit Aggarwal's Go Web Development Cook
 4. Writing and Consuming RESTful Web Services in Go
 5. Working with SQL Databases (PostgreSQL)
 6. Working with NoSQL Databases (MongoDB)
+7. Working with Websockets
 
 Enjoy!
